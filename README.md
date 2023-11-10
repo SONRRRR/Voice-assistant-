@@ -1,4 +1,4 @@
-# Voice-assistant-
+# Voice-assistant
 Practical work num. 4 "Voice assistant". Design of things of the future, an educational subject of ITMO University.
 
 Used libraries: requests, pyttsx3, pyaudio и Vosk.
