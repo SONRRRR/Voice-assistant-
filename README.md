@@ -9,11 +9,11 @@ Working with API https://dog.ceo/api/breeds/image/random.
 
 ## Available commands: 
 
-⭐“next one”
-
 ⭐“show the picture”
 
 ⭐“save the picture”
+
+⭐“next picture”
 
 ⭐“dog breed”
 
