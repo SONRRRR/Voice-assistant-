@@ -9,14 +9,14 @@ Working with API https://dog.ceo/api/breeds/image/random.
 
 ## Available commands: 
 
-⭐“next one” – обновление изображения
+⭐“next one”
 
-⭐“show the picture” – показ изображения
+⭐“show the picture”
 
-⭐“save the picture” – сохранение изображения в файл
+⭐“save the picture”
 
-⭐“dog breed” – озвучивание породы собаки 
+⭐“dog breed”
 
-⭐“picture info” – озвучивание информации: формат файла и разрешение изображения в пикселях
+⭐“picture info”
 
-⭐“close” – завершение работы программы
+⭐“close”
